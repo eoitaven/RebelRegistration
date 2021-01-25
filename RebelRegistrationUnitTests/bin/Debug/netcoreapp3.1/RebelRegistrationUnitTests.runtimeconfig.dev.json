@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\oitav\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\oitav\\.nuget\\packages"
+    ]
+  }
+}
